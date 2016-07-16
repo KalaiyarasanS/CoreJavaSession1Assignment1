@@ -1,0 +1,14 @@
+package session1;
+
+public class Assignment3 {
+
+	public static void main(String[] args) {
+
+		int x=-2147483649;
+		int y=2147483648;
+		// int can store only values in the range from -2147483648 to 2147483648
+		
+		
+	}
+
+}
